@@ -75,7 +75,7 @@ HTML5, CSS3, Bootstrap, JavaScript, Jest, Git, and GitHub
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- [Live Demo](https://henask12.github.io/JavaScript-Capstone/dist/index.html)   
+ [Live Demo](https://java-script-capstone-navy.vercel.app/)   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
