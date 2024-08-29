@@ -35,6 +35,7 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
+    "javascript-capstone": "file:",
     "jest-dom": "^4.0.0"
   }
 }
